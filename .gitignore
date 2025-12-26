@@ -26,7 +26,7 @@ test-code/
 # FAISS index
 # Ignore all contents, keep folder
 # =========================
-faiss_index/*
+#faiss_index/*
 !faiss_index/.gitkeep
 
 # =========================
