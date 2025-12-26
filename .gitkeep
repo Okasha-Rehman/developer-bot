@@ -1,0 +1,2 @@
+mkdir faiss_index
+New-Item faiss_index\.gitkeep -ItemType File
