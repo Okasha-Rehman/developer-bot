@@ -2,7 +2,6 @@
 # Environment & secrets
 # =========================
 .env
-.env.*
 
 # =========================
 # Virtual environments
